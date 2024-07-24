@@ -1,0 +1,41 @@
+*.text1{
+    background-color: rgb(114, 104, 104);
+}
+
+.ota{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+}
+
+.text2{
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    padding: 23px;
+    border-radius: 20px;
+ 
+}
+
+.ona{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    gap: 30px ;
+}
+
+.text3{
+    width: 350px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    padding: 23px;
+    border-radius: 20px;
+    
+}
+
+.text4{
+    width: 450px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    padding: 23px;
+    border-radius: 20px;
+}
